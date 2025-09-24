@@ -6,7 +6,7 @@
 	<groupId>guru.springframework</groupId>
 	<artifactId>spring-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>ear</packaging>
 
 	<name>Spring Boot Web Application</name>
 	<description>Spring Boot Web Application</description>
